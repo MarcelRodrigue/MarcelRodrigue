@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm kop tichi marcel rodrigue</h1>
-<h3 align="center">A SoftWare Engineer from cameroOn i find interest in data science, ML, web development and cloud computung</h3>
+<h3 align="center">A SoftWare Engineer from cameroon i find interest in data science, ML, web development and cloud computung</h3>
 <br>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=marcelrodrigue&label=Profile%20views&color=0e75b6&style=flat" alt="marcelrodrigue" /> </p>
